@@ -22,10 +22,8 @@
 
 ### Python Package 
 - 2-1. [FileIO Basic                               ][pkg-21]
-- 2-2. [FileIO OS-CMD                              ][pkg-22]
-- 2-3. [Exceptions                                 ][pkg-23]
-- 2-4. [Module                                     ][pkg-24]
-- 2-5. [DateTIme                                   ][pkg-25]
+- 2-2. [Exceptions                                 ][pkg-23]
+- 2-3. [DateTIme                                   ][pkg-25]
 
 [pkg-11]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/iitp19-hankyung/blob/master/s20_review/html/PB_DA_101_Review_DataType.html             "Go pkg-11"
 [pkg-12]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/iitp19-hankyung/blob/master/s20_review/html/PB_DA_102_Review_DataStructure.html        "Go pkg-12"
