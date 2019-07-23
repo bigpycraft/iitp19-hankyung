@@ -25,6 +25,12 @@
 - 2-2. [Exceptions                                 ][pkg-23]
 - 2-3. [DateTIme                                   ][pkg-25]
 
+### Map and Reduce
+- 3-1. [Lambda Function & Internal Functions       ][pkg-31]
+- 3-2. [Map, Filter, Reduce                        ][pkg-32]
+
+### Data Processing 
+
 [pkg-11]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/iitp19-hankyung/blob/master/s20_review/html/PB_DA_101_Review_DataType.html             "Go pkg-11"
 [pkg-12]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/iitp19-hankyung/blob/master/s20_review/html/PB_DA_102_Review_DataStructure.html        "Go pkg-12"
 [pkg-13]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/iitp19-hankyung/blob/master/s20_review/html/PB_DA_103_Review_Function1_Basic.html      "Go pkg-13"
