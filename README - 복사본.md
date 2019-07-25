@@ -6,8 +6,10 @@
 
 <img src="../images/img_front_readme.png">
 
-## Day1. Special Lecture for Reinforcement
+## Day2. Special Lecture for Reinforcement
 - Python Programming Review
+- Python Package 
+- Map and Reduce
 - Data Processing and Analysis
 - Data Crawling and Modeling
 
